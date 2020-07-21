@@ -1,6 +1,7 @@
 # Independent_Project_WK4
 # {indpendent project}
-#### {Brief description of application}, {Date of current version}
+#### , 
+* July, 2020
 #### By **Erick Onyango**
 ## Description
 This is the independent Project am doing for data Prep 
@@ -11,8 +12,8 @@ This is the independent Project am doing for data Prep
 #
 #
 ## Known Bugs
-*I have tried as much as possible to avoid the bugs
-*Any bug that is encountered is highly regretted
+* I have tried as much as possible to avoid the bugs
+* Any bug that is encountered is highly regretted
 #
 ## Technologies Used
 I have tried to stick with Python, exlporing it feaures like the pandas and numpy for the analsyis. you many also encounter a bit of SQLITE in the analysis.
