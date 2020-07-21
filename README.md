@@ -1,6 +1,10 @@
 # Independent_Project_WK4
-# {indpendent project}
-#### , 
+# Paris Electric Car-Sharing Service Company
+#### 
+* This Project is all about processing station dat to help undestand
+* Electric car usage over time by solving the question of
+* the most popular hour of the day for picking up a shared electric Bluecar
+* in the city of Paris over the month of April 2018
 * July, 2020
 #### By **Erick Onyango**
 ## Description
